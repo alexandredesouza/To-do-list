@@ -10,11 +10,7 @@ Antes de clonar o projeto, tente fazer seguindo as instruções abaixo:
 
    
 
-   O resultado esperado é parecido com este:
-
    
-
-![O resultado esperado é parecido com este:](C:\Users\alexa\Desktop\exemplo.png)
 
 
 
